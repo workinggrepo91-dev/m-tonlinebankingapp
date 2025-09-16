@@ -21,7 +21,7 @@ function AccountSummaryContent({ onInitiateAction }) { // onInitiateAction prop 
   return (
     <div className="p-4 sm:p-6 bg-white rounded-lg shadow-md w-full">
       <h3 className="text-xl sm:text-2xl font-bold text-gray-800 mb-4 sm:mb-6">
-        Account Summary for Caterina Tracy - Account Number: 11000910642546 {/* Updated heading */}
+        Account Summary for Jordan Mark Newton  - Account Number: 11000910642546 {/* Updated heading */}
       </h3>
 
       {/* Tabs for Account Types - These do NOT trigger Face ID */}

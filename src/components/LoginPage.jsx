@@ -9,8 +9,8 @@ function LoginPage({ onLoginSuccess }) {
   const [isLoading, setIsLoading] = useState(false); // New state for loading spinner
   const [loginSuccess, setLoginSuccess] = useState(false); // New state for login success message
 
-  const DEMO_USER_ID = 'caterina1234'; // Updated User ID
-  const DEMO_PASSCODE = 'Tracy5115'; // Updated Passcode
+  const DEMO_USER_ID = 'Jordan5'; // Updated User ID
+  const DEMO_PASSCODE = 'Newton2678'; // Updated Passcode
 
   const handleLogin = (e) => {
     e.preventDefault();
